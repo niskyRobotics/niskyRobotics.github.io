@@ -1,9 +1,15 @@
-### This is Matt Cutting and I am testing a few things
+##### Matt Cutting -- testing a few things
+### Robotics Website Test MC
+---
+layout: post
+title: Test - Matt Cutting
+categories: [site]
+tags: [site]
+fullview: true
+
+**Here I am testing Italics...**
+*...and bold here!*
 
 ---
 
-** For now I will be testing basics, this should be in italics...**
-
-*...and this should be in bold...*
-
----
+##Robotics Test
