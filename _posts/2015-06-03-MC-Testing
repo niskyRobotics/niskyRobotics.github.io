@@ -1,12 +1,11 @@
-##### Matt Cutting -- testing a few things
-### Robotics Website Test MC
 ---
 layout: post
-title: Test - Matt Cutting
+title: Hello World!
 categories: [site]
 tags: [site]
 fullview: true
 ---
-Testing the paragraphs **italics** *bold*
-Hello world
-##Robotics Test
+
+Nisky Robotics, home of FTC6460 RoboWarriors, is moving into its new site, courtesy of [Github](https://github.com) and [Jekyll](https://jekyllrb.com). It will take some time to move everything over but it should allow for a cleaner and more maintainable site as time goes on.
+
+
