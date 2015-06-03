@@ -6,10 +6,7 @@ title: Test - Matt Cutting
 categories: [site]
 tags: [site]
 fullview: true
-
-**Here I am testing Italics...**
-*...and bold here!*
-
 ---
-
+Testing the paragraphs **italics** *bold*
+Hello world
 ##Robotics Test
